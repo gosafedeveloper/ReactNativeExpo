@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "DrawerNavigationApp",
+    "slug": "DrawerNavigationApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "DrawerNavigationApp"
+}
