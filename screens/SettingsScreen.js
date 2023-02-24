@@ -7,7 +7,7 @@ const SettingsScreen = () => {
         <Text>Settings Screen</Text>
         <Button
           title="Click Here"
-          onPress={() => alert('Button Clicked!')}
+          onPress={() => alert('Button Clickedd!')}
         />
       </View>
     );
